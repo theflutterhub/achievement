@@ -4,3 +4,9 @@
 console.log("Hello World")
 
 console.log("Mama World")
+
+
+
+void main(){
+runApp(MyApp());
+}
